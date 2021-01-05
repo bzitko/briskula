@@ -5,3 +5,5 @@ Briškula je popularna kartaška igra koja se igra s trščanskim kartama. **Šp
 |Naziv|Broj|Bod|
 |-----|----|---|
 |As   |1   |11 |
+|Duja |2   |0  |
+ 
